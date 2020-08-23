@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Salut les ptits potes
